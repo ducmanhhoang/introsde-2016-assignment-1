@@ -66,29 +66,16 @@ Ant source file build.xml is annotated.
 * **Main targets are:**
 
 * **execute.evaluation:** Executing all above tasks as the following order:
-
 0. Compiles the codes and runs **src/Assignment01/GenerateDatabase.java** to generates people.xml database.
-
 1. Runs src/Assignment02/lab03/Requirement02.java based on Lab 3
-
 2. Runs src/Assignment02/lab03/Requirement03.java based on Lab 3 with id = 5
-
 3. Runs src/Assignment02/lab03/Requirement04.java based on Lab 3 with weight > 90
-
 4. Runs src/Assignment02/lab04/Requirement02.java based on Lab 4 (marshaling to XML - create 3 persons using java and marshal them to XML) - print the content and save to people01.xml file
-
 5. Runs src/Assignment02/lab04/Requirement02.java based on Lab 4 (un-marshaling from XML)
-
 6. Runs src/Assignment02/lab04/Requirement03.java based on Lab 4 (marshaling to JSON - create 3 persons using java and marshal them to JSON) - print the content and save to people.json file
-
 * **Generated files:** Produce people.xml, people01.xml, people.json.
 
-
-
 **References:**
-
-1. https://sites.google.com/a/unitn.it/introsde_2016-17/home/lessons
-
-2. https://sites.google.com/a/unitn.it/introsde_2016-17/lab-sessions
-
-3. https://sites.google.com/a/unitn.it/introsde_2016-17/lab-sessions/assignments/assignment-1
+https://sites.google.com/a/unitn.it/introsde_2016-17/home/lessons
+https://sites.google.com/a/unitn.it/introsde_2016-17/lab-sessions
+https://sites.google.com/a/unitn.it/introsde_2016-17/lab-sessions/assignments/assignment-1
