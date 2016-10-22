@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<people>
+    <person id="1">
+        <firstname>Thu</firstname>
+        <lastname>Trinh</lastname>
+        <birthdate>1998-9-2</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>95.82</weight>
+            <height>1.72</height>
+            <bmi>32.389129259058954</bmi>
+        </healthprofile>
+    </person>
+    <person id="2">
+        <firstname>Tho</firstname>
+        <lastname>Dinh</lastname>
+        <birthdate>1994-5-11</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>134.89</weight>
+            <height>1.79</height>
+            <bmi>42.09918541868231</bmi>
+        </healthprofile>
+    </person>
+    <person id="3">
+        <firstname>Nam</firstname>
+        <lastname>Ly</lastname>
+        <birthdate>1976-10-21</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>103.32</weight>
+            <height>1.96</height>
+            <bmi>26.895043731778426</bmi>
+        </healthprofile>
+    </person>
+    <person id="4">
+        <firstname>Hung</firstname>
+        <lastname>Pham</lastname>
+        <birthdate>1983-1-25</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>139.23</weight>
+            <height>1.69</height>
+            <bmi>48.748293126991356</bmi>
+        </healthprofile>
+    </person>
+    <person id="5">
+        <firstname>Giang</firstname>
+        <lastname>Dao</lastname>
+        <birthdate>1989-12-17</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>71.22</weight>
+            <height>1.99</height>
+            <bmi>17.984394333476427</bmi>
+        </healthprofile>
+    </person>
+    <person id="6">
+        <firstname>Phuong</firstname>
+        <lastname>Ly</lastname>
+        <birthdate>1996-11-23</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>125.25</weight>
+            <height>2.11</height>
+            <bmi>28.13279126704252</bmi>
+        </healthprofile>
+    </person>
+    <person id="7">
+        <firstname>Thai</firstname>
+        <lastname>Ly</lastname>
+        <birthdate>1988-10-29</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>60.1</weight>
+            <height>1.94</height>
+            <bmi>15.96875332128813</bmi>
+        </healthprofile>
+    </person>
+    <person id="8">
+        <firstname>Thai</firstname>
+        <lastname>Trinh</lastname>
+        <birthdate>1970-1-12</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>77.1</weight>
+            <height>2.18</height>
+            <bmi>16.223381870212943</bmi>
+        </healthprofile>
+    </person>
+    <person id="9">
+        <firstname>Tien</firstname>
+        <lastname>Ly</lastname>
+        <birthdate>1966-2-28</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>77.37</weight>
+            <height>1.75</height>
+            <bmi>25.263673469387758</bmi>
+        </healthprofile>
+    </person>
+    <person id="10">
+        <firstname>Thai</firstname>
+        <lastname>Dao</lastname>
+        <birthdate>1987-4-4</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>133.89</weight>
+            <height>2.17</height>
+            <bmi>28.433392087324002</bmi>
+        </healthprofile>
+    </person>
+    <person id="11">
+        <firstname>Nam</firstname>
+        <lastname>Pham</lastname>
+        <birthdate>1968-8-9</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>79.44</weight>
+            <height>1.86</height>
+            <bmi>22.96219216094346</bmi>
+        </healthprofile>
+    </person>
+    <person id="12">
+        <firstname>Thu</firstname>
+        <lastname>Le</lastname>
+        <birthdate>1998-10-1</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>144.99</weight>
+            <height>1.82</height>
+            <bmi>43.77188745320613</bmi>
+        </healthprofile>
+    </person>
+    <person id="13">
+        <firstname>Diep</firstname>
+        <lastname>Phan</lastname>
+        <birthdate>1988-7-29</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>50.71</weight>
+            <height>1.73</height>
+            <bmi>16.943432790938555</bmi>
+        </healthprofile>
+    </person>
+    <person id="14">
+        <firstname>Bac</firstname>
+        <lastname>Vu</lastname>
+        <birthdate>1979-1-29</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>101.48</weight>
+            <height>1.95</height>
+            <bmi>26.68770545693623</bmi>
+        </healthprofile>
+    </person>
+    <person id="15">
+        <firstname>Giang</firstname>
+        <lastname>Vu</lastname>
+        <birthdate>1977-4-30</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>146.66</weight>
+            <height>1.65</height>
+            <bmi>53.86960514233242</bmi>
+        </healthprofile>
+    </person>
+    <person id="16">
+        <firstname>Phuong</firstname>
+        <lastname>Ly</lastname>
+        <birthdate>1961-3-14</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>83.19</weight>
+            <height>1.66</height>
+            <bmi>30.189432428509217</bmi>
+        </healthprofile>
+    </person>
+    <person id="17">
+        <firstname>Phuong</firstname>
+        <lastname>Pham</lastname>
+        <birthdate>1968-8-13</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>141.6</weight>
+            <height>1.63</height>
+            <bmi>53.29519364673116</bmi>
+        </healthprofile>
+    </person>
+    <person id="18">
+        <firstname>Bac</firstname>
+        <lastname>Dao</lastname>
+        <birthdate>1973-6-12</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>56.63</weight>
+            <height>2.01</height>
+            <bmi>14.01697977772828</bmi>
+        </healthprofile>
+    </person>
+    <person id="19">
+        <firstname>Tho</firstname>
+        <lastname>Dinh</lastname>
+        <birthdate>1977-8-11</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>55.56</weight>
+            <height>2.15</height>
+            <bmi>12.019469983775014</bmi>
+        </healthprofile>
+    </person>
+    <person id="20">
+        <firstname>Nam</firstname>
+        <lastname>Ly</lastname>
+        <birthdate>1967-10-24</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>115.25</weight>
+            <height>1.94</height>
+            <bmi>30.622276543734724</bmi>
+        </healthprofile>
+    </person>
+    <person id="21">
+        <firstname>Thu</firstname>
+        <lastname>Vu</lastname>
+        <birthdate>1983-11-23</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>102.78</weight>
+            <height>1.94</height>
+            <bmi>27.30895950685514</bmi>
+        </healthprofile>
+    </person>
+    <person id="22">
+        <firstname>Bac</firstname>
+        <lastname>Dinh</lastname>
+        <birthdate>1995-1-5</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>63.93</weight>
+            <height>2.04</height>
+            <bmi>15.361880046136102</bmi>
+        </healthprofile>
+    </person>
+    <person id="23">
+        <firstname>Bac</firstname>
+        <lastname>Pham</lastname>
+        <birthdate>1977-10-16</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>128.26</weight>
+            <height>1.76</height>
+            <bmi>41.40625</bmi>
+        </healthprofile>
+    </person>
+    <person id="24">
+        <firstname>Ba</firstname>
+        <lastname>Dao</lastname>
+        <birthdate>1992-2-7</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>101.46</weight>
+            <height>2.15</height>
+            <bmi>21.94916170903191</bmi>
+        </healthprofile>
+    </person>
+    <person id="25">
+        <firstname>Hung</firstname>
+        <lastname>Phan</lastname>
+        <birthdate>1972-4-24</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>99.83</weight>
+            <height>2.07</height>
+            <bmi>23.298093304394506</bmi>
+        </healthprofile>
+    </person>
+    <person id="26">
+        <firstname>Long</firstname>
+        <lastname>Le</lastname>
+        <birthdate>1974-9-19</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>50.69</weight>
+            <height>1.69</height>
+            <bmi>17.74797801197437</bmi>
+        </healthprofile>
+    </person>
+    <person id="27">
+        <firstname>Diep</firstname>
+        <lastname>Pham</lastname>
+        <birthdate>1977-6-11</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>104.87</weight>
+            <height>2.01</height>
+            <bmi>25.95727828519097</bmi>
+        </healthprofile>
+    </person>
+    <person id="28">
+        <firstname>Ba</firstname>
+        <lastname>Dao</lastname>
+        <birthdate>1963-2-11</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>64.36</weight>
+            <height>2.16</height>
+            <bmi>13.794581618655691</bmi>
+        </healthprofile>
+    </person>
+    <person id="29">
+        <firstname>Diep</firstname>
+        <lastname>Phan</lastname>
+        <birthdate>1982-8-18</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>86.94</weight>
+            <height>1.91</height>
+            <bmi>23.831583564047037</bmi>
+        </healthprofile>
+    </person>
+    <person id="30">
+        <firstname>Ba</firstname>
+        <lastname>Le</lastname>
+        <birthdate>1965-8-18</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>114.29</weight>
+            <height>1.62</height>
+            <bmi>43.54900167657369</bmi>
+        </healthprofile>
+    </person>
+</people>

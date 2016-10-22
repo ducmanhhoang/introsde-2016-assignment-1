@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<people>
+    <person id="1">
+        <firstname>Diep</firstname>
+        <lastname>Dao</lastname>
+        <birthdate>1992-8-13</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>88.73</weight>
+            <height>1.61</height>
+            <bmi>34.230932448593805</bmi>
+        </healthprofile>
+    </person>
+    <person id="1">
+        <firstname>Long</firstname>
+        <lastname>Ly</lastname>
+        <birthdate>1989-4-5</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>54.73</weight>
+            <height>1.84</height>
+            <bmi>16.165524574669185</bmi>
+        </healthprofile>
+    </person>
+    <person id="1">
+        <firstname>Thai</firstname>
+        <lastname>Le</lastname>
+        <birthdate>1960-1-15</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22</lastupdate>
+            <weight>57.81</weight>
+            <height>1.99</height>
+            <bmi>14.598116209186637</bmi>
+        </healthprofile>
+    </person>
+</people>

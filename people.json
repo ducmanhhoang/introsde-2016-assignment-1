@@ -1,0 +1,36 @@
+{
+  "person" : [ {
+    "firstname" : "Thai",
+    "lastname" : "Le",
+    "birthdate" : "1971-5-25",
+    "healthprofile" : {
+      "lastupdate" : "2016-10-22",
+      "weight" : 133.77,
+      "height" : 2.2,
+      "bmi" : 27.638429752066113
+    },
+    "id" : 1
+  }, {
+    "firstname" : "Tien",
+    "lastname" : "Ly",
+    "birthdate" : "1989-5-16",
+    "healthprofile" : {
+      "lastupdate" : "2016-10-22",
+      "weight" : 107.37,
+      "height" : 2.0,
+      "bmi" : 26.8425
+    },
+    "id" : 1
+  }, {
+    "firstname" : "Tien",
+    "lastname" : "Dinh",
+    "birthdate" : "1961-1-9",
+    "healthprofile" : {
+      "lastupdate" : "2016-10-22",
+      "weight" : 67.18,
+      "height" : 1.87,
+      "bmi" : 19.211301438416882
+    },
+    "id" : 1
+  } ]
+}
